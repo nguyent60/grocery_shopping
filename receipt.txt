@@ -1,2 +1,9 @@
-Receipt for thuong:
-Total:	$0.0
+Receipt for Thuong:
+pufferfish		$199.99
+octopus			$149.99
+sardine			$39.99
+flounder		$99.99
+herring			$29.99
+cod			$119.99
+perch			$55.0
+Total:	$694.94

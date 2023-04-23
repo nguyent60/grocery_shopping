@@ -2,21 +2,21 @@ pufferfish, 199.99
 anchovy, 29.99
 tuna, 99.99
 sardine, 39.99
-bream, 45.00
+bream, 45.0
 bass, 99.99
-rainbow trout, 66.00
+rainbow trout, 66.0
 salmon, 77.99
-perch, 55.00
+perch, 55.0
 carp, 29.99
 catfish, 99.99
 pike, 99.99
 sunfish, 29.99
-red mullet, 77.00
+red mullet, 77.0
 herring, 29.99
 eel, 88.88
 octopus, 149.99
-squid, 70.00
-sea cucumber, 75.00
+squid, 70.0
+sea cucumber, 75.0
 stonefish, 249.99
 flounder, 99.99
 cod, 119.99
